@@ -1,0 +1,8 @@
+unstructured[all-docs]
+chromadb 
+tiktoken
+langchain 
+langchain-community 
+langchain-ollama 
+langchain-groq
+python_dotenv
